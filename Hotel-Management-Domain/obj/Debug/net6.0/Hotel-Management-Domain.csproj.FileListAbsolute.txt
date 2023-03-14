@@ -1,0 +1,12 @@
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\bin\Debug\net6.0\Hotel-Management-Domain.deps.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\bin\Debug\net6.0\Hotel-Management-Domain.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\bin\Debug\net6.0\Hotel-Management-Domain.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\refint\Hotel-Management-Domain.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\Hotel-Management-Domain.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Domain\obj\Debug\net6.0\ref\Hotel-Management-Domain.dll

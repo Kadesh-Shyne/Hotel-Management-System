@@ -1,0 +1,5 @@
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Infrastructure\obj\Debug\net6.0\Hotel-Management-Infrastructure.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Infrastructure\obj\Debug\net6.0\Hotel-Management-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Infrastructure\obj\Debug\net6.0\Hotel-Management-Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Infrastructure\obj\Debug\net6.0\Hotel-Management-Infrastructure.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Infrastructure\obj\Debug\net6.0\Hotel-Management-Infrastructure.csproj.CoreCompileInputs.cache

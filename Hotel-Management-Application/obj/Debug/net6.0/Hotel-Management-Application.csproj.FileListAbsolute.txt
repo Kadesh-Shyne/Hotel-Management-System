@@ -1,0 +1,20 @@
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel Management System - WebAPI.deps.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel Management System - WebAPI.runtimeconfig.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\appsettings.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel Management System - WebAPI.exe
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel-Management-Application.deps.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel-Management-Application.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel-Management-Application.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel Management System - WebAPI.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\bin\Debug\net6.0\Hotel Management System - WebAPI.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.csproj.CopyComplete
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\refint\Hotel-Management-Application.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\Hotel-Management-Application.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hotel-Management-Application\obj\Debug\net6.0\ref\Hotel-Management-Application.dll

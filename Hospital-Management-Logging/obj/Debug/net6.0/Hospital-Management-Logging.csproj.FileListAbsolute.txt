@@ -1,0 +1,22 @@
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel Management System - WebAPI.deps.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel Management System - WebAPI.runtimeconfig.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\appsettings.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel Management System - WebAPI.exe
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hospital-Management-Logging.deps.json
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hospital-Management-Logging.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hospital-Management-Logging.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel Management System - WebAPI.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel-Management-Application.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel-Management-Application.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\bin\Debug\net6.0\Hotel Management System - WebAPI.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.csproj.CopyComplete
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\refint\Hospital-Management-Logging.dll
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\Hospital-Management-Logging.pdb
+C:\Users\EmmanuelIlivieda\source\repos\Hotel Mgt System\Hospital-Management-Logging\obj\Debug\net6.0\ref\Hospital-Management-Logging.dll
