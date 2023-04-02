@@ -11,11 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E11FCA12-053
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{DF8D823B-2279-4950-8F07-3BD1A54A5208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Management-Infrastructure", "Hotel-Management-Infrastructure\Hotel-Management-Infrastructure.csproj", "{1CABBF4A-20B2-4816-8C2F-6B415CB4B07A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel-Management-Infrastructure", "Hotel-Management-Infrastructure\Hotel-Management-Infrastructure.csproj", "{1CABBF4A-20B2-4816-8C2F-6B415CB4B07A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Management-Domain", "Hotel-Management-Domain\Hotel-Management-Domain.csproj", "{019071CF-CACE-4751-9018-F56A3CF4CB75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel-Management-Domain", "Hotel-Management-Domain\Hotel-Management-Domain.csproj", "{019071CF-CACE-4751-9018-F56A3CF4CB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital-Management-Logging", "Hospital-Management-Logging\Hospital-Management-Logging.csproj", "{58651F67-504F-4943-B571-D17116F2B30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel-Management-Logging", "Hospital-Management-Logging\Hotel-Management-Logging.csproj", "{58651F67-504F-4943-B571-D17116F2B30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Management-Service", "Hotel-Management-System\Hotel-Management-Service.csproj", "{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Management-Service.Contract", "Hotel-Management-Service.Contract\Hotel-Management-Service.Contract.csproj", "{3D124F1A-92BE-487D-92EA-F379AC36CF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel-Management-Service.Shared", "Hotel-Management-Service.Shared\Hotel-Management-Service.Shared.csproj", "{3743045B-AB38-4042-8D6A-9EA15FD1C8C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +49,18 @@ Global
 		{58651F67-504F-4943-B571-D17116F2B30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58651F67-504F-4943-B571-D17116F2B30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58651F67-504F-4943-B571-D17116F2B30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D124F1A-92BE-487D-92EA-F379AC36CF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D124F1A-92BE-487D-92EA-F379AC36CF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D124F1A-92BE-487D-92EA-F379AC36CF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D124F1A-92BE-487D-92EA-F379AC36CF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3743045B-AB38-4042-8D6A-9EA15FD1C8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3743045B-AB38-4042-8D6A-9EA15FD1C8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3743045B-AB38-4042-8D6A-9EA15FD1C8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3743045B-AB38-4042-8D6A-9EA15FD1C8C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +72,9 @@ Global
 		{1CABBF4A-20B2-4816-8C2F-6B415CB4B07A} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
 		{019071CF-CACE-4751-9018-F56A3CF4CB75} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
 		{58651F67-504F-4943-B571-D17116F2B30E} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
+		{8E05E7F9-7A6D-42F8-BFD4-26EC2540666B} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
+		{3D124F1A-92BE-487D-92EA-F379AC36CF26} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
+		{3743045B-AB38-4042-8D6A-9EA15FD1C8C1} = {DF8D823B-2279-4950-8F07-3BD1A54A5208}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BE22F4B-8585-4BC9-B6CC-71EEFDC0B23B}
