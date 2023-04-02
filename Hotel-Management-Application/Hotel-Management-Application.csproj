@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Hotel Mgt System\Hotel Management System - WebAPI.csproj" />
+    <ProjectReference Include="..\Hotel-Management-Service.Contract\Hotel-Management-Service.Contract.csproj" />
   </ItemGroup>
 
 </Project>

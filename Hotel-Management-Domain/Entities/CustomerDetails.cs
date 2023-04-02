@@ -1,5 +1,6 @@
 ﻿using Hotel_Management_Domain.Common;
 using System.ComponentModel.DataAnnotations;
+using System.Security.Claims;
 
 namespace Hotel_Management_System.Models
 {
@@ -33,7 +34,7 @@ namespace Hotel_Management_System.Models
         [Required(ErrorMessage = "State is a required field.")]
         public string? State { get; set; }
 
-        [Range(0, 10, ErrorMessage = "Mini. value is 0 digit and max. value 10.")]
+    
         [Display(Name = "Postal Code")]
         [Required(ErrorMessage = "Postal code is a required field.")]
         public int PostalCode { get; set; }
@@ -42,7 +43,7 @@ namespace Hotel_Management_System.Models
         [Required(ErrorMessage = "Country is a required field.")]
         public string? Country { get; set; }
 
-        [StringLength(11, ErrorMessage = "Maximum character length is 11.")]
+        [StringLength(20, ErrorMessage = "Maximum character length is 20.")]
         [Required(ErrorMessage = "Phone number is a required field.")]
         public string? PhoneNumber { get; set; }
 
@@ -53,7 +54,7 @@ namespace Hotel_Management_System.Models
 
         [DataType(DataType.Password, ErrorMessage = "Enter a valid password.")]
         [StringLength(20, ErrorMessage = "Email character length is 20.")]
-        public string? Password { get; set; }    
-
+        public string? Password { get; set; }
+        public ClaimsIdentity? UserName { get; set; }
     }
 }
